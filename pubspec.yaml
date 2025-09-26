@@ -1,0 +1,33 @@
+# pubspec.yaml
+# Este archivo define las dependencias y recursos de la aplicación.
+
+name: flutter_application_2
+description: "Un portafolio de prácticas de Flutter."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Incluye los paquetes necesarios.
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+# La sección `flutter` es crucial para los recursos.
+flutter:
+  # Indica que se usa material design.
+  uses-material-design: true
+
+  # La sección `assets` declara los recursos de la aplicación.
+  # Es crucial para que Flutter encuentre las imágenes.
+  # Asegúrate de que las imágenes se encuentren en esta ruta.
+  assets:
+    - assets/images/
