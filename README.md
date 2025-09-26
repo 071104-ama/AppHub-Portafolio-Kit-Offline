@@ -10,6 +10,8 @@ main.dart: El punto de inicio de la aplicación.
 
 HUB: El menú lateral (Drawer) que permite la navegación entre las diferentes prácticas.
 
+![Hub](assets/images/hub.png)
+
 Indice de practicas: Es el menu que contiene las diferentes practicas realizadas durante el parcial
 
 Ajustes: Es el apartado que se localiza al momento de poner el modo oscuro de android y informacion del sistema.
