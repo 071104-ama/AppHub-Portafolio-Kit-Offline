@@ -63,12 +63,18 @@ Un juego sencillo donde el usuario elige entre "par" o "impar" y la aplicación 
 
 ![Par](assets/images/paroimpar.jpg)
 
-Cómo Ejecutar la Aplicación
+Cómo Ejecutar la Aplicación:
+
 Asegúrate de tener Flutter instalado en tu máquina.
 
 Clona o descarga este repositorio.
 
+git clone https://github.com/071104-ama/AppHub-Portafolio-Kit-Offline.git
+
+
 Abre el proyecto en tu editor de código preferido (como Visual Studio Code o Android Studio).
+
+cd AppHub-Portafolio-Kit-Offline
 
 Abre una terminal y ejecuta el siguiente comando para obtener las dependencias:
 
@@ -79,6 +85,7 @@ Conecta un dispositivo físico o inicia un emulador.
 Ejecuta la aplicación con el siguiente comando:
 
 flutter run
+
 
 Elaboro:
 
