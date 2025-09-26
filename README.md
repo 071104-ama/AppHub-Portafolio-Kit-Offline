@@ -10,7 +10,7 @@ main.dart: El punto de inicio de la aplicación.
 
 HUB: El menú lateral (Drawer) que permite la navegación entre las diferentes prácticas.
 
-![Hub](assets/images/hub.png)
+![HUB](assets/images/HUB.jpg)
 
 Indice de practicas: Es el menu que contiene las diferentes practicas realizadas durante el parcial
 
